@@ -11,6 +11,10 @@ HOME PAGE   |  TEXT TRANSLATION |  VOICE TRANSLATION |
 :---------:|:----------:|:---------:
 ![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/texttransaltion.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/voicetranslation.jpeg?raw=true) 
 
+IMAGE TRANSALTION   |  
+:---------:|:----------:|:---------:
+![](https://github.com/sumitkhamar22/drago/blob/master/art/Image20%Translation.jpeg?raw=true)  | 
+
 
 # What does this app do?
 It is an open source Android application that allows people to download children's story books. The books are available
