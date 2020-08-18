@@ -11,9 +11,9 @@ HOME PAGE   |  TEXT TRANSLATION |  VOICE TRANSLATION |
 :---------:|:----------:|:---------:
 ![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/texttransaltion.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/voicetranslation.jpeg?raw=true) 
 
-|  IMAGE TRANSALTION   |  
+ IMAGE TRANSALTION   
 :---------:|:----------:|:---------:
-| ![](https://github.com/sumitkhamar22/drago/blob/master/art/Image%20Translation.jpeg?raw=true)  | 
+![](https://github.com/sumitkhamar22/drago/blob/master/art/Image%20Translation.jpeg?raw=true)   
 
 
 # What does this app do?
