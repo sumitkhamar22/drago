@@ -14,7 +14,7 @@ HOME PAGE   |  TEXT TRANSLATION |  VOICE TRANSLATION |
 
 IMAGE TRANSLATION   |  CONVERSATION SIGNUP |  LOGIN |
 :---------:|:----------:|:---------:
-![](https://github.com/sumitkhamar22/drago/blob/master/art/Image%20Translation.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/signup.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/login.jpeg?raw=true) 
+![](https://github.com/sumitkhamar22/drago/blob/master/art/image.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/signup.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/lagin.jpeg?raw=true) 
 
 
 CONNECTING WITH FRIENDS   |  CONVERSATION -1  |  CONVERSATION -2 |
