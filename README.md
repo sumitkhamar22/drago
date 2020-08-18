@@ -6,8 +6,8 @@ Dragoman is an android app which can recognise and translate language from text,
 
 # Screenshots
 <img src="art/HomePage.jpeg" alt="phone image" width="200px" />
-<img src="art/ImageTranslation.jpeg" alt="phone image" width="200px" />
-<img src="art/Chat.jpeg" alt="phone image" width="400px" />
+<img src="art/Image Translation.jpeg" alt="phone image" width="200px" />
+<img src="art/Chat.jpeg" alt="phone image" width="200px" />
 
 
 
