@@ -5,15 +5,11 @@ Dragoman is an android app which can recognise and translate language from text,
 
 
 # Screenshots
-<img src="art/HomePage.jpeg" alt="phone image" width="200px" />
-<img src="art/Image Translation.jpeg" alt="phone image" width="200px" />
-<img src="art/Chat.jpeg" alt="phone image" width="200px" />
 
 
-
-PEDOMETER 1     |  PEDOMETER 2 |  PEDOMETER 3 |
+HOME PAGE   |  TEXT TRANSLATION |  VOICE TRANSLATION |
 :---------:|:----------:|:---------:
-![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/Image Translation.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/Chat.jpeg?raw=true) 
+![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/texttransaltion.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/voicetranslation.jpeg?raw=true) 
 
 
 # What does this app do?
