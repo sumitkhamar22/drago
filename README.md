@@ -12,10 +12,14 @@ HOME PAGE   |  TEXT TRANSLATION |  VOICE TRANSLATION |
 ![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/texttransaltion.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/voicetranslation.jpeg?raw=true) 
 
 
-IMAGE TRANSLATION   |  CONVERSATION SIGNUP |  CONNECTING WITH FRIENDS |
+IMAGE TRANSLATION   |  CONVERSATION SIGNUP |  LOGIN |
 :---------:|:----------:|:---------:
-![](https://github.com/sumitkhamar22/drago/blob/master/art/Image%20Translation.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/signup.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/friendrequest.jpeg?raw=true) 
+![](https://github.com/sumitkhamar22/drago/blob/master/art/Image%20Translation.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/signup.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/login.jpeg?raw=true) 
 
+
+CONNECTING WITH FRIENDS   |  CONVERSATION -1  |  CONVERSATION -2 |
+:---------:|:----------:|:---------:
+![](https://github.com/sumitkhamar22/drago/blob/master/art/friendrequest.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/Chat.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/chat2.jpeg?raw=true) 
     
 
 
