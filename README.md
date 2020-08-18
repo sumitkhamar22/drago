@@ -1,14 +1,7 @@
-# Bookdash Android
+# Dragoman - A Pocket Translator App
 
-[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=57bde66fa530dc0100e902b3&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/57bde66fa530dc0100e902b3/build/latest)
 
-Check out the blog post here: http://riggaroo.co.za/book-dash-android-app/
-
-Download the app: https://play.google.com/store/apps/details?id=org.bookdash.android
-
-Open Beta Testing Group: https://play.google.com/apps/testing/org.bookdash.android
-
-Book Dash is an Android App for the NPO where you can download books in different languages for free.
+Dragoman is an android app which can recognise and translate language from text, speech and even photos. It has four options speech, text, photo and conversation.
 
 
 # Screenshots
