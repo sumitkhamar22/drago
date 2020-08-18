@@ -11,6 +11,11 @@ Dragoman is an android app which can recognise and translate language from text,
 
 
 
+PEDOMETER 1     |  PEDOMETER 2 |  PEDOMETER 3 |
+:---------:|:----------:|:---------:
+![](https://github.com/sumitkhamar22/drago/blob/master/art/HomePage.jpeg?raw=true)  |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/Image Translation.jpeg?raw=true) |  ![](https://github.com/sumitkhamar22/drago/blob/master/art/Chat.jpeg?raw=true) 
+
+
 # What does this app do?
 It is an open source Android application that allows people to download children's story books. The books are available
 in different languages such as English, Sepedi, Zulu, Afrikaans etc. The books are free to distribute and translate.
